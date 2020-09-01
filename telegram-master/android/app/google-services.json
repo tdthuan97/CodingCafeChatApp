@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "903969157517",
+    "firebase_url": "https://chattelegramapp.firebaseio.com",
+    "project_id": "chattelegramapp",
+    "storage_bucket": "chattelegramapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903969157517:android:3ca5270640e8bf9d2b0dc4",
+        "android_client_info": {
+          "package_name": "com.tdthuan.telegramchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903969157517-qnh6f7tvt19qusujlaijkbadematshk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tdthuan.telegramchatapp",
+            "certificate_hash": "7a9b127269c1f073ec1828481d69a6825ed97bf8"
+          }
+        },
+        {
+          "client_id": "903969157517-ih1btm2eko5kgj5rsaboco7vsgr1tdkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa0restZP43PvQ_M9CPgZLKHof8K0zeC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903969157517-ih1btm2eko5kgj5rsaboco7vsgr1tdkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
